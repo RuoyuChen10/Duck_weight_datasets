@@ -10,7 +10,7 @@ This data sets is using for research in image weighing of ducks, which is one of
 
 The dataset consist of 50 ducks, each duck consist around 150 images from different angle. Folder `duck_with_feet` contains the duck images with its feet, and folder `duck_without_feet` we remove the images' feet.  Some images are shown in the figure below:
 
-<img src="https://github.com/RuoyuChen10/Duck_weight_datasets/img/over_all.jpg" style="zoom:80%;" />
+<img src="./img/over_all.jpg" style="zoom:80%;" />
 
 ## 2. Label
 
@@ -36,7 +36,7 @@ The first column denote the number of the duck, second column denote the weight,
 
 Due to the background is not strictly controlled at the time of collection, the duck feet area exist illumination difference. We try a deep learning model (details will open after the paper accepted) to compare the effect of if remove feet area:
 
-<img src="https://github.com/RuoyuChen10/Duck_weight_datasets/img/problem_of_feet.jpg" style="zoom:60%;" />
+<img src="./img/problem_of_feet.jpg" style="zoom:60%;" />
 
 (a) The area which light brightness to change greatly. (b) the estimated result of one duck based on the images from different angles. The PE distribution of the weight estimation (c)with feet and (d) without feet. 
 
