@@ -4,7 +4,7 @@
 
 This data sets is using for research in image weighing of ducks, which is one of our works' datasets, more details can visit our [project page](https://ruoyuchen10.github.io/Publications/image-weighing-1.html), if there is any question can connect with [Ruoyu Chen](https://ruoyuchen10.github.io/).
 
-> Project page:  [https://ruoyuchen10.github.io/Publications/image-weighing-1.html](https://ruoyuchen10.github.io/Publications/image-weighing-1.html)
+> Project page:  [https://ruoyuchen10.github.io/Project/image-weighing/](https://ruoyuchen10.github.io/Project/image-weighing/)
 >
 > Connect: cryexplorer@gmail.com
 
